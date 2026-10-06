@@ -1,0 +1,3 @@
+# Static-host routing (Netlify, Cloudflare Pages). Harmless where it is ignored.
+# The app is a single page that reads the address from the query string.
+/*    /index.html   200
